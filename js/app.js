@@ -102,7 +102,7 @@ var keyHandler = function (event) {
 	// If complete, alert and reset
 	if (pattern.length === current) {
 		current = 0;
-        document.getElementById('main').style.backgroundImage = "url('../image/licorne.png')";
+        document.getElementById('main').style.backgroundImage = "url('image/licorne.png')";
         app.selectedColor = 'pixel--unicorn';
         document.getElementById('h1').textContent = "welcome to the fucking amazing unicorn pixel art game bitches";
         
