@@ -7,6 +7,15 @@
 :black_square_button::white_square_button::black_square_button::black_square_button::white_square_button::black_square_button::black_square_button::white_square_button::black_square_button:  
 :black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button:
 
-Petit exercice pour manipulé le DOM
+## Little game for improve my DOM manipulation
 
+---
 ![rendu](resultat.png)
+
+it's time![Play](https://kevdanone.github.io/pixelart/).
+
+---
+
+### Tips
+
+found the easter egg ;)
