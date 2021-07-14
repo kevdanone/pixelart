@@ -12,7 +12,7 @@
 ---
 ![rendu](resultat.png)
 
-it's time![Play](https://kevdanone.github.io/pixelart/).
+it's time to ![Play](https://kevdanone.github.io/pixelart/).
 
 ---
 
